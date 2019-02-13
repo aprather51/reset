@@ -1,2 +1,2 @@
-# reset
-Simple reset.css
+# Mini-Reset
+Simple and minimal reset css
